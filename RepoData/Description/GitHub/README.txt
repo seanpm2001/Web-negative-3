@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+➖️3️⃣️📖️ Documentation regarding Web -3.0, separating Cryptocurrency, NFTs and Blockchain from Web 3.0 (since they are a downgrade from both Web 1.0 and Web 2.0)
